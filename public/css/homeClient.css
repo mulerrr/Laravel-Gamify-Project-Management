@@ -1,0 +1,50 @@
+.add-review {
+	margin-top: 30px
+}
+.review-form {
+	background: #fff;
+	border-radius: 7px;
+	box-shadow: 0px 25px 113px -31px rgba(0, 0, 0, 0.1);
+	padding: 0px 40px 20px 40px;
+}
+
+.client-review-card {
+	background: #fff;
+	padding: 30px;
+	box-shadow: 0px 25px 113px -31px rgba(0, 0, 0, 0.1);
+	margin-bottom: 30px;
+}
+.crc-avatar img {
+	width: 100%;
+	border-radius: 7px;
+}
+.crc-review label {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	font-size: 34px;
+}
+.crc-review p {
+	display: block;
+	padding: 0px;
+	margin: 0px;
+	display: inline;
+	font-size: 22px;
+	line-height: 35px;
+}
+.crc-review img {
+	display: inline-block;
+	margin: 10px;
+	margin-bottom: 0px;
+	width: 50px;
+}
+img.quote-left {
+	float: left;
+}
+img.quote-right {
+	float: right;
+	margin: 0px;
+}
+.rating img {
+	width: 40px;
+}

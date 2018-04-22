@@ -1,0 +1,36 @@
+/*--------REVIEW SLIDER--------*/
+.review-wrapper .bx-wrapper {
+    padding: 40px;
+    border: none;
+    width: 80%;
+    margin: 0px auto 40px auto;
+    box-shadow: 0px 25px 113px -31px rgba(0,0,0,0.2);
+    border-radius: 7px;
+}
+.bx-wrapper .bx-controls-direction a {
+	width: 80px;
+    height: 80px;
+    transform: translateY(-50%);
+}
+.bx-controls-direction a.bx-prev {
+	left: -100px;
+}
+.bx-controls-direction a.bx-next {
+	right: -100px;
+}
+.bx-wrapper .bx-prev {
+    background: url(../images/site/home/prev-btn.png);
+}
+.bx-wrapper .bx-next {
+    background: url(../images/site/home/next-btn.png);
+}
+.bx-wrapper .bx-next:hover {
+    background: url(../images/site/home/next-btn.png);
+}
+.bx-wrapper .bx-next:link {
+    background: url(../images/site/home/next-btn.png);
+}
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+	left: 0px;
+}
+/*--------REVIEW SLIDER--------*/

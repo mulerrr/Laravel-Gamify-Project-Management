@@ -1,0 +1,118 @@
+#app .navbar-default.navbar-custom {
+	margin-bottom: 0;
+}
+
+#navbar {
+	position: relative;
+	background: #fff;
+	border-bottom: solid 1px #edeef0;
+}
+
+#navbar, .navbar-menu {
+	height: 55px;
+}
+
+.dropdown-toggle.navbar-dropdown-btn {
+	background: none;
+	border: none;
+}
+
+.navbar-menu {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+img.img-logo {
+	width: 100px;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	top: 50%;
+}
+
+a.hamburger-btn {
+	line-height: 55px;
+	display: block;
+	padding: 0 20px;
+	font-size: 24px;
+	color: #000;
+	border-right: solid 1px #edeef0;
+	text-decoration: none;
+}
+
+.navbar-dropdown {
+	line-height: 55px;
+	padding-left: 20px;
+	border-left: solid 1px #edeef0;
+	margin-right: 25px;
+}
+
+span.navbar-avatar-name {
+	margin: 0 5px 0 20px;
+}
+
+img.navbar-avatar {
+	width: 37px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+ul.dropdown-menu.dropdown-menu-custom {
+
+    position: absolute;
+    top: 100%;
+    right: -25px;
+    z-index: 1000;
+    min-width: 232px;
+    padding: 5px 0;
+    margin: 0;
+    list-style: none;
+    font-size: 14px;
+    text-align: left;
+    background-color: #fff;
+    border: 1px solid #edeef0;
+    /* border: 1px solid rgba(0,0,0,.15); */
+    border-radius: 0px;
+    border-top: none;
+    background-clip: padding-box;
+}
+
+#secondary-nav {
+	border-bottom: 1px solid #edeef0;
+	background: #fff;
+    -webkit-box-shadow: 1px 1px 20px 2px rgba(0,0,0,0.0.5);
+	box-shadow: 1px 1px 20px 2px rgba(0,0,0,0.05);
+	margin-bottom: 10px;
+	z-index: 5000;
+}
+
+#secondary-nav ul.secondary-navbar {
+	height: 50px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 0;
+}
+
+ul.secondary-navbar {
+	list-style-type: none;
+	margin: 0;
+}
+
+ul.secondary-navbar li {
+	line-height: 50px;
+}
+
+ul.secondary-navbar li:nth-child(1) {
+	border-left: 1px solid #edeef0;
+}
+
+ul.secondary-navbar li a {
+	padding: 0 20px;
+	border: none;
+	border-right: 1px solid #edeef0;
+}

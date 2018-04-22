@@ -1,0 +1,289 @@
+/*-------------------USERS INDEX----------------------*/
+.users {
+    margin-top: 30px;
+}
+.profile-card {
+    position: relative;
+    background: #fff;
+    border-radius: 7px;
+    padding: 15px;
+    height: 350px;
+    margin-bottom: 30px;
+    box-shadow: 0px 25px 113px -31px rgba(0,0,0,0.2);
+}
+.profile-card.pc-add-background {
+    background: linear-gradient(to top, #abbaab, #ffffff);
+}
+.profile-card.profile-card-home {
+    height: 250px;
+}
+.profile-card-top, .profile-card-first-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-card-top-left, .profile-card-top-right, 
+.profile-card-first-row-left, .profile-card-first-row-right,
+.profile-card-edit-delete a {
+    width: 50%;
+}
+
+.profile-card-top-left {
+    display: flex;  
+    align-items: center;
+}
+
+.profile-card-top-left img {
+    width: 120px;
+    height: 120px;
+    border-radius: 2px;
+}
+
+.profile-card-top-right {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.profile-card-name h2,
+.profile-card-name h3 {
+    text-align: right;
+    margin: 0;
+}
+
+.profile-card-name h2 a,
+.profile-card-name h3 a {
+    color: #666;
+}
+
+.profile-card-name h2 a:hover,
+.profile-card-name h3 a:hover {
+    text-decoration: none;
+}
+
+.profile-card-name h2 {
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.profile-card-name h3 {
+    font-size: 12px;
+}
+
+.profile-card-project-task {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.profile-card-project, .profile-card-task, .profile-card-skill {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-card-project-task span {
+    font-size: 13px;
+    font-weight: 900;
+}
+
+.profile-card-project-task label{
+    font-size: 11px;
+    margin: 0;
+    font-weight: 500;
+}
+
+.profile-card-task {
+    margin-left: 20px;
+}
+
+.profile-card p {
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+/*-------PROGRESS-------*/
+.progress {
+    height: 10px;
+    margin-bottom: 12px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 2px rgba(0,0,0);
+}
+
+.progress-bar {
+    line-height: 15px;
+    border: none;
+}
+
+.progress-bar.progress-bar-presence {
+    background: linear-gradient(to right, #007991, #78ffd6);
+}
+
+.progress-bar.progress-bar-productivity {
+    background: linear-gradient(to left, #fc5c7d, #6a82fb);
+}
+
+
+.progress .progress-bar span.score {
+    font-size: 12px;
+}
+
+.profile-card-first-row-left {
+    padding-right: 5px;
+}
+
+.profile-card-first-row-right {
+    padding-left: 5px;
+}
+
+.profile-card-skill span {
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: -8px;
+}
+
+.profile-card-skill label {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.profile-card-edit-delete {
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-card-edit, .profile-card-delete {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-card-edit-delete a {
+    color: #000;
+    padding: 10px;
+    border-radius: 5px;
+    transition: all .3s linear;
+}
+.profile-card-edit-delete a.user-edit:hover,
+.profile-card-edit-delete a.user-delete:hover {
+    color: #ffffff;
+    text-decoration: none;
+    transition: all .3s linear;
+}
+.profile-card-edit-delete a.user-edit:hover {
+    background: linear-gradient(to right, #00d2ff, #928dab);
+}
+.profile-card-edit-delete a.user-delete:hover {
+    background: linear-gradient(to right, #bc4e9c, #f80759);
+}
+
+.profile-card-edit span, .profile-card-delete span {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.profile-card-add {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.profile-card-add img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.add-member-btn {
+    padding: 10px 15px;
+    border-radius: 3px;
+    border: 1px solid #c6cde0;
+    color: #c6cde0;
+}
+
+.add-member-btn:hover {
+    text-decoration: none;
+    color: #c6cde0;
+}
+
+/*-------------------USERS INDEX----------------------*/
+
+/*-------------------USERS SHOW----------------------*/
+.user-card-wrapper {
+    background: #fff;
+    margin-top: 50px;
+    margin-bottom: : 50px;
+    border-radius: 7px;
+    -webkit-box-shadow: 3px 2px 10px 2px rgba(0,0,0,0.05);
+    box-shadow: 3px 2px 20px 2px rgba(0,0,0,0.05);
+}
+
+.user-card-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #536976, #292e49);
+    padding: 50px 0 0 0;
+    border-radius: 7px 0 0 7px;
+}
+
+.user-card-left img {
+    width: 60%;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+
+.user-card-left a {
+    margin-bottom: 30px;
+}
+
+.user-card-right {
+    padding: 30px 0 30px 10px;
+}
+
+.user-card-right h2 {
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 0;
+    margin-top: 0px;
+}
+
+span.user-card-username {
+    font-size: 18px;
+    color: #222;
+    font-weight: 700;
+}
+
+span.user-card-position {
+    font-size: 14px;
+}
+
+.user-card-right span {
+    color: #222;
+}
+
+.user-card-right h3 {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.user-card-right p {
+    color: #333;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.user-card-right a {
+
+}

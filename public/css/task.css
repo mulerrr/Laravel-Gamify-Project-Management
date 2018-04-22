@@ -1,0 +1,28 @@
+.task-detail {
+	margin-top: 30px;
+}
+.task-content-top {
+	display: flex;
+	flex-direction: row;
+}
+.tct-title {
+	width: 70%;
+	padding-right: 20px;
+}
+.tct-img {
+	width: 30%;
+}
+.task-content-top img {
+	width: 100%;
+}
+.task-content-top h1,
+.task-content-top p {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+.task-content-top h1 {
+	padding-bottom: 15px;
+	font-weight: 600;
+	font-size: 34px;
+}

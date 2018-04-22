@@ -1,0 +1,35 @@
+.survey-result,
+.surveey-answer {
+	margin-bottom: 30px;
+}
+.survey-result-wrapper {
+	background: #fff;
+	border-radius: 7px;
+	margin-top: 20px;
+	box-shadow: 0px 25px 113px -31px rgba(0, 0, 0, 0.1);
+	padding: 20px;
+}
+.srw-img img {
+	width: 100%;
+}
+.srw-text h1,
+.srw-text h2 {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+.srw-text h1 {
+	padding: 20px 0px 10px 0px;
+	font-weight: 600;
+	font-size: 46px;
+}
+.srw-text h2 {
+	padding-bottom: 20px;
+}
+.surveey-answer {
+	background: #ffffff;
+	border-radius: 7px;
+	margin: 20px 0px 30px 0px;
+	box-shadow: 0px 25px 113px -31px rgba(0, 0, 0, 0.1);
+	padding-bottom: 30px;
+}

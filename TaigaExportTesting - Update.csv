@@ -1,0 +1,80 @@
+ref,subject,tags,description,sprint,sprint_estimated_start,sprint_estimated_finish,owner - username,owner_full_name,assigned_to,assigned_to_full_name,status,is_closed,back-points,total-points,backlog_order,sprint_order,kanban_order,created_date,modified_date,finish_date,client_requirement,team_requirement,attachments,generated_from_issue,external_reference,tasks,watchers,voters
+19,Wonderfullymade demo pages,wonderfullymade,Wonderfullymade demo pages,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,In progress,FALSE,6,6,1.50E+12,1.50E+12,1.50E+12,2018-02-05 06:44:11.091520+00:00,2018-02-06 04:53:29.989222+00:00,,TRUE,FALSE,0,,,"21,22,23,24,25,26",[231471],0
+20,create tampilan harga cicilan bulanan,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,Done,TRUE,6,6,1.50E+12,1.50E+12,1.50E+12,2018-02-05 06:54:48.173650+00:00,2018-02-08 01:46:47.145228+00:00,2018-02-08 01:46:47.145228+00:00,FALSE,FALSE,0,,,"27,34,53",[],0
+54,modifikasi footer,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-08 08:41:32.174672+00:00,2018-02-09 01:46:44.214161+00:00,2018-02-09 01:46:44.214161+00:00,FALSE,FALSE,0,,,55,[],0
+64,Static pages,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,Done,TRUE,4,4,1.50E+12,1.50E+12,1.50E+12,2018-02-09 06:29:35.083384+00:00,2018-02-11 09:21:28.765686+00:00,2018-02-11 09:21:28.765686+00:00,FALSE,FALSE,0,,,"88,89",[],0
+72,Category page front end,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,New,FALSE,10,10,1.50E+12,1.50E+12,1.50E+12,2018-02-06 06:52:11.254023+00:00,2018-02-06 06:52:11.254023+00:00,,FALSE,FALSE,0,,,"179,180,182",[],0
+74,Product detail page front end,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,Done,TRUE,16,16,1.50E+12,1.50E+12,1.50E+12,2018-02-12 06:58:40.670304+00:00,2018-02-20 07:16:48.788698+00:00,2018-02-20 07:16:48.788698+00:00,FALSE,FALSE,0,,,,[],0
+78,Register page front end,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-14 07:01:25.404481+00:00,2018-02-16 04:14:32.598652+00:00,2018-02-16 04:14:32.598652+00:00,FALSE,FALSE,0,,,,[],0
+80,Search result page front end,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,Done,TRUE,4,4,1.50E+12,1.50E+12,1.50E+12,2018-02-16 07:03:48.716597+00:00,2018-02-18 04:15:15.500096+00:00,2018-02-18 04:15:15.500096+00:00,FALSE,FALSE,0,,,,[],0
+82,quick view front end,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-19 07:04:13.279501+00:00,2018-02-20 02:26:15.192328+00:00,2018-02-20 02:26:15.192328+00:00,FALSE,FALSE,0,,,,[],0
+92,Header front end,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,In progress,FALSE,16,16,1.50E+12,1.50E+12,1.50E+12,2018-02-07 03:48:49.156965+00:01,2018-02-17 01:25:26.216487+00:00,,FALSE,FALSE,0,,,"116,142,143,144,145,000",[231471],0
+93,Footer front end,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-21 03:48:49.156965+00:02,2018-02-22 03:03:17.123222+00:00,2018-02-22 03:03:17.123222+00:00,FALSE,FALSE,0,,,,[],0
+226,Perbaikan konten dinamis dan mobile,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,Done,TRUE,4,4,1.50E+12,1.50E+12,1.50E+12,2018-02-24 03:48:49.156965+00:06,2018-02-26 07:49:00.024002+00:00,2018-02-26 07:49:00.024002+00:00,FALSE,FALSE,0,,,227,[],0
+186,Revisi go live,minimal,,,,,helmi8,Helmi Joe,imamprastio,Imam Prastio,New,FALSE,6,6,1.50E+12,1.50E+12,1.50E+12,2018-02-20 03:05:43.149864+00:00,2018-02-20 03:05:43.149864+00:00,,FALSE,FALSE,0,,,"187,188",[],0
+209,Integrasi J&T,oms,contact lexi 0817363868 ya,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,6,6,1.50E+12,1.50E+12,1.50E+12,2018-02-01 04:16:11.946059+00:00,2018-02-04 06:16:46.196708+00:00,2018-02-04 06:16:46.196708+00:00,FALSE,FALSE,0,,,210,[231451],0
+215,marketplace settlement revisi filter,oms,,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-04 05:14:55.275513+00:00,2018-02-05 01:51:21.052474+00:00,2018-02-05 01:51:21.052474+00:00,FALSE,FALSE,0,,,216,[],0
+13,Shopee Integration,oms,Integrate with Shopee API,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,8,8,0,1.50E+12,1.50E+12,2018-02-05 03:16:43.124767+00:00,2018-02-09 06:16:00.628509+00:00,2018-02-09 06:16:00.628509+00:00,FALSE,TRUE,0,,,"14,15,16,35,36",[],0
+17,So Good Top 10 Sales Report,oms,So Good Top 10 Sales Report,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,In progress,TRUE,4,4,1.50E+12,1.50E+12,1.50E+12,2018-02-09 04:33:42.711186+00:00,2018-02-11 07:09:36.735201+00:00,2018-02-11 07:09:36.735201+00:00,FALSE,TRUE,0,,,"18,59,94",[],0
+28,Lincgroup Online Apply Job,linc,Lincgroup Online Apply Job,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,4,4,1.50E+12,1.50E+12,1.50E+12,2018-02-07 07:39:01.801693+00:00,2018-02-09 03:00:25.416422+00:00,2018-02-09 03:00:25.416422+00:00,FALSE,FALSE,0,,,"29,30,31,43,95,104",[231475],0
+219,US untuk issue2,oms,"# US untuk issue-isue berikut #208 #207 #206 #205 #197 #184 #183 #163 #161 #157 #136 #112 jadi, kalo ngerjain issue supaya dapet point, issue nya di buat US juga",,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,In Progress,TRUE,6,6,1.50E+12,1.50E+12,1.50E+12,2018-02-07 03:48:49.156965+00:03,2018-02-10 02:18:38.834747+00:00,2018-02-10 02:18:38.834747+00:00,FALSE,FALSE,0,,,,[],0
+220,Create model sku_problem,oms,a,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-12 03:48:49.156965+00:04,2018-02-13 07:09:49.369515+00:00,2018-02-13 07:09:49.369515+00:00,FALSE,FALSE,0,,,224,[231451],0
+105,Linc excel reporting horizontal,linc,,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,New,FALSE,4,4,1.50E+12,1.50E+12,1.50E+12,2018-02-07 03:48:49.156965+00:05,2018-02-18 07:29:58.535163+00:00,,FALSE,FALSE,0,,,,[],0
+229,fix sogood report query,oms,,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,New,FALSE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-07 03:48:49.156965+00:07,2018-02-10 08:49:35.468841+00:00,,FALSE,FALSE,0,,,230,[231451],0
+118,Tambahan kolom order_amount di OrderHeader,oms,"Improvement untuk order amount di order header, karena ada kemungkinan amount di marketplace berbeda dengan penjumlahan amount order detail, terutama utk SKU KIT.
+
+•	Saya sudah buatkan column baru di tbl_order_header —> order_amount
+•	Column ini sudah ada data-nya, diisi dari manual rekon, jadi jangan di hapus
+•	Column ini belum di code ke model orderHeader
+
+
+Jadi perubahan-nya:
+•	Tambahkan code di model orderHeader untuk column ini
+•	Tampilkan di view orderHeader detail dan admin (list)
+
+Untuk manual order entry
+•	Setiap kali penambahan atau penghapusan order item, tambah dan kurang order_amount di tbl_order_header
+
+Untuk API dari marketplace
+•	Ambil paid amount dari marketplace dan masukkan ke column order_amount
+
+Untuk API dari online store
+•	Setelah orderDetail selesai dimasukkan semua, hitung ulang order amount dan update ke order_amount",,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,4,4,1.50E+12,1.50E+12,1.50E+12,2018-02-13 03:19:36.561185+00:00,2018-02-14 01:49:09.778668+00:00,2018-02-14 01:49:09.778668+00:00,FALSE,FALSE,0,,,"119,120,121,122,123,000",[],0
+132,Grafik report so good,oms,,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-15 03:19:36.561185+00:01,2018-02-16 03:22:57.913339+00:00,2018-02-16 03:22:57.913339+00:00,FALSE,FALSE,0,,,133,[],0
+231,create script auto fill sku_parent,oms,,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-16 03:19:36.561185+00:02,2018-02-17 04:58:11.991824+00:00,2018-02-17 04:58:11.991824+00:00,FALSE,FALSE,0,,,232,[],0
+149,apply job version 1 revisi,linc,,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-17 03:19:36.561185+00:07,2018-02-18 02:48:07.717267+00:00,2018-02-18 02:48:07.717267+00:00,FALSE,FALSE,0,,,150,[231451],0
+151,report so good tambahkan filter status,oms,,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-19 03:19:36.561185+00:08,2018-02-20 01:57:41.912274+00:00,2018-02-20 01:57:41.912274+00:00,FALSE,FALSE,0,,,152,[],0
+158,Data Transport Report,oms,"Tlg dibuatkan menu khusus billing (under report —> billing) hanya bisa diakses oleh user role finance. Report pertama adalah data transport:
+
+Report name: data transport
+Filter: order date (from, to)
+Display: data grid
+Export: excel
+Query: 
+
+select o.company_id, t.create_time as shipped_date, o.order_no, o.dest_name, o.dest_address1, o.courier_id, o.awb_no, o.order_source, o.status
+from tbl_order_header o left join tbl_order_status_tracking t on t.order_header_id=o.order_header_id
+where o.status in ('shipped','delivered','return','return-reject')",,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-21 03:19:36.561185+00:13,2018-02-22 02:59:35.633344+00:00,2018-02-22 02:59:35.633344+00:00,FALSE,FALSE,1,,,"159,160",[231451],0
+167,Marketplace Detail Settlement Report,oms,"Tlg dibuatkan menu khusus billing (under report —> billing) hanya bisa diakses oleh user role finance. Report pertama adalah data transport:
+
+Report name: marketplace detail settlement
+Filter: order_no (text area, separate by enter)
+Display: data grid
+Export: excel
+
+Query:
+
+select o.company_id, o.order_no, o.status, o.order_source, o.order_date, o.dest_name, o.dest_province, o.dest_city, o.dest_area, o.dest_sub_area, d.sku_code, d.sku_description, d.qty_order, d.remarks from tbl_order_header o left join tbl_order_detail d on d.order_header_id=o.order_header_id
+where o.status not in ('cancelled','draft') and o.company_id not like '%TEST’",,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-22 03:19:36.561185+00:14,2018-02-23 02:59:42.542973+00:00,2018-02-23 02:59:42.542973+00:00,FALSE,FALSE,0,,,"168,169",[],0
+173,Tokopedia Integration,oms,Integrate with Tokopedia API,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,New,FALSE,8,8,1.50E+12,1.50E+12,1.50E+12,2018-02-11 03:19:36.561185+00:15,2018-02-18 08:58:49.122127+00:00,,FALSE,FALSE,0,,,"174,175,176,177,178",[231451],0
+189,Display foto dari mobile app,oms,"Data foto yang diambil dari mobile app tlg di display di trip detail —> view, untuk detail format dan teknis bisa konsultasi dengan Yosua dan Yoga",,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-24 03:05:43.149864+00:01,2018-02-25 01:50:45.754521+00:00,2018-02-25 01:50:45.754521+00:00,FALSE,FALSE,0,,,190,[],0
+191,create function orderDelivered di API blibli,oms,create function orderDelivered di API blibli,,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-26 03:05:43.149864+00:02,2018-02-27 01:50:55.986927+00:00,2018-02-27 01:50:55.986927+00:00,FALSE,FALSE,0,,,192,[],0
+200,New report: Report empty stock with draft order,oms,"Tlg dibuatkan report baru (under report —> operation) 
+
+Report name: Draft order empty stock
+Filter: (pakai text field filter standard yii)
+Display: data grid
+Export: excel
+Query: 
+
+select * from vw_item_order_check where status='draft' and stock_available=0",,,,helmi8,Helmi Joe,cumibakar,Cumi Bakar,Done,TRUE,2,2,1.50E+12,1.50E+12,1.50E+12,2018-02-28 03:05:43.149864+00:05,2018-02-29 01:51:11.140357+00:00,2018-02-29 01:51:11.140357+00:00,FALSE,FALSE,0,,,"201,202",[],0

@@ -1,0 +1,92 @@
+
+.posisi {
+  position: relative;
+  margin: 20px 0 40px 24px;
+  display: block;
+}
+
+.cumi-cumi div {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.cumi-cumi div.points-label {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial;
+  font-size: 15px;
+  line-height: 85px;
+  height: 80px;
+  width: 80px;
+  left: 10px;
+  top: 10px;
+  background-color: #fff;
+  z-index: 2000;
+}
+
+.cumi-cumi div.points-label label {
+  position: absolute;
+  left: 20px;
+  top: 10px;
+  font-weight: 200;
+}
+
+.cumi-cumi div.points-label span {
+  position: absolute;
+  left: 20px;
+  top: -7px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+/*.cumi-cumi div span {
+  position: absolute;
+  font-family: Arial;
+  font-size: 15px;
+  line-height: 85px;
+  height: 80px;
+  width: 80px;
+  left: 10px;
+  top: 10px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: #fff;
+}*/
+
+.cumi-cumi .latar { background-color: red; 
+position: absolute;}
+
+.cumi-cumi .putar {
+  clip: rect(0 50px 100px 0);
+  background-color: red;
+  position: absolute;
+}
+
+.cumi-cumi .kiri {
+  clip: rect(0 50px 144px 0);
+  opacity: 1;
+  background-color: grey;
+  position: absolute;
+}
+
+.cumi-cumi .kanan {
+  clip: rect(0 50px 100px 0);
+  transform: rotate(180deg);
+  opacity: 0;
+  background-color: grey;
+  position: absolute;
+}
+
+
+
+@keyframes 
+  toggle {  0% {
+   opacity: 0;
+  }
+   100% {
+   opacity: 1;
+  }
+}
